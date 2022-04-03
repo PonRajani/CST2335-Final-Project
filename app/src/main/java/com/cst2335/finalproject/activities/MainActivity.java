@@ -1,4 +1,4 @@
-package com.cst2335.finalproject;
+package com.cst2335.finalproject.activities;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AlertDialog;
@@ -10,6 +10,8 @@ import android.view.Menu;
 import android.view.MenuInflater;
 import android.view.MenuItem;
 
+
+import com.cst2335.finalproject.R;
 
 public class MainActivity extends AppCompatActivity {
 
